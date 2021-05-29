@@ -1,0 +1,9 @@
+[{
+	"modid": "ShiftSprint",
+	"name": "Shift Sprinting",
+	"version": "1.0.1",
+	"authors": ["TheRareCarrot"],
+	"description": "A mod to allow sprinting with shift! Will work with pretty much all older MC versions... probably",
+	"url": "https://condemnednetwork.enjin.com/",
+    "credits": "REghZy (aka TheRareCarrot) and TheCondemned!"
+}]
