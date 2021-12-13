@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="srgType" value="SRG" />
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -7,11 +19,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="src" level="project" />
     <orderEntry type="library" name="core-libs" level="project" />
     <orderEntry type="module-library">
-      <library name="ms-src">
+      <library>
         <CLASSES>
-          <root url="file://F:/MinecraftUtils/modding/forge/1.6.4/a-mappings/searge/server-and-client/src" />
+          <root url="jar://$MODULE_DIR$/../../modding/mod-making-1.6.4/libraries/forge-1.6.4-9.11.1.953-universal.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -20,10 +33,123 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://F:/MinecraftUtils/modding/mod-making-1.6.4/libraries/forge-1.6.4-9.11.1.953-universal.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/164/CodeChickenLib-universal-1.6.4-1.0.0.61.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../1.6.4/164/codechickenlib-universal-1.6.4-1.0.0.62.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../1.6.4/164/ForgeMultipart-universal-1.6.4-1.0.0.250.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../1.6.4/backpack-1.28.37-1.6.x.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/bspkrscorev5.3.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/buildcraft-Z-additional-buildcraft-objects-1.0.7.560.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/calclavia core-1.2.0.299-main.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/carpentersblocks v2.0.8 - MC 1.6+.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ChickenChunks 1.3.3.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/codechickencore 0.9.0.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/cofhcore-2.0.0.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/dimensionaldoors-2.2.3-336.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/EnderStorage 1.4.3.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/equivalentexchange3-1.6.4-0.1.140.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/extracells-1.6.8f.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/galacticraft-1.6.4-2.0.12.1026.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/galacticraft-planets-1.6.4-2.0.12.1026.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/GregsLighting-1.9.1-mc1.6.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/InventoryTweaks-MC1.6.2-1.56-b77.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ironchest-universal-1.6.4-5.4.1.697.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/legacyjavafixer-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/logisticspipes-mc1.6.4-0.7.4.dev.205.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/MicdoodleCore-1.6.4-2.0.12.1026.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/modular-force-field-system-3.6.2.56-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/modularpowersuits-1.6.4-0.10.0-91.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/mystcraft-uni-1.6.4-0.10.12.01.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/neiplugins-1.1.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/netherores-2.2.2-55.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/notenoughitems 1.6.1.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/numina-1.6.2-0.1.2-55.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/OPENCCSENSORS-1.6.4.1B.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/openmodslib-0.4b.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/openperipheraladdons-0.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/openperipheralcore-0.3.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/powercrystalscore-1.1.8-9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/powersuitaddons-1.6.4-884.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectBench-1.6.2-v1.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedBase-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedCompat-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedIntegration-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedLighting-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedMechanical-BETA-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/ProjectRedWorld-1.6.4-4.3.7.32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/qcraft1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/RedstoneArsenal-1.0.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/redstoneinmotion_2.3.0.0_mc1.6.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/simplyjetpacks-0.1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/slick-util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/stevescarts2.0.0.b10.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/tradebooth.0.6.4.2.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/TREECAPITATOR.FORGE.1.6.4.R09.UNIVERSAL.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/universal-electricity-3.1.0.66-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/waila_1.5.2a.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/WeaponMod.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/WR-CBE 1.4.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/autoutils-1.6.4-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/dimensional-anchor-57.1.95.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/immibis-core-57.1.94.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/immibis-microblocks-57.6.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/vending-1.6.4-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../1.6.4/autoutils-1.6.4-1.0.1.jar!/src" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/dimensional-anchor-57.1.95.jar!/src" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/immibis-core-57.1.94.jar!/src" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/immibis-microblocks-57.6.3.jar!/src" />
+          <root url="jar://$MODULE_DIR$/../1.6.4/vending-1.6.4-1.1.1.jar!/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/appeng-rv14-finale3-mc16x-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/atomic-science-1.2.0.63-core-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/bigreactors-0.3.0A-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/BUILDCRAFT-A-1.6.4-4.2.2-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/extracells-1.6.8f-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/extrautils-1.0.2-CarrotEdit.zip!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/InventoryTweaks-MC1.6.2-1.56-b77-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/logisticspipes-mc1.6.4-0.7.4.dev.205-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/minefactoryreloaded-2.7.8-482-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/modularpowersuits-1.6.4-0.10.0-91-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/thermalexpansion-3.0.0.6-CarrotEdit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/ComputerCraft1.58-LumyAndCarrotFix.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/ComputerCraft1.58-LumyAndCarrotFix.zip!/api/doc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../1.6.4-edited/ComputerCraft1.58-LumyAndCarrotFix.zip!/api/src" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>

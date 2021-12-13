@@ -1,4 +1,4 @@
-package reghzy.mods.shiftsprint;
+package dragonjetz.mods.shiftsprint;
 
 import cpw.mods.fml.common.ITickHandler;
 import cpw.mods.fml.common.TickType;
@@ -47,5 +47,10 @@ public class PlayerTickHandler implements ITickHandler {
         if (Keyboard.isKeyDown(Keyboard.KEY_LSHIFT)) {
             player.func_70031_b(true);
         }
+        // testing a NEI exploit... this seems to actually update the spawner at those coords server-side...
+        // else if (Keyboard.isKeyDown(Keyboard.KEY_H)) {
+        //     player.func_71035_c("Trying GM1...");
+        //     NEICPH.sendMobSpawnerID(82, 134, 302, "joe ronimo xd");
+        // }
     }
 }

@@ -1,4 +1,4 @@
-package reghzy.mods.shiftsprint;
+package dragonjetz.mods.shiftsprint;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
