@@ -1,4 +1,4 @@
-package dragonjetz.mods.shiftsprint;
+package reghzy.mods.shiftsprint;
 
 import cpw.mods.fml.common.ITickHandler;
 import cpw.mods.fml.common.TickType;
