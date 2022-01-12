@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SprintFix:jar">
-    <output-path>$USER_HOME$/Desktop</output-path>
-    <root id="archive" name="ShiftSprint.jar">
-      <element id="module-output" name="ShiftSprint" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/mcmod.info" />
-    </root>
-  </artifact>
-</component>

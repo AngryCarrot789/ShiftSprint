@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SprintFix-server">
+    <output-path>$PROJECT_DIR$/../../server/tekkitmain-1.6.4/mods</output-path>
+    <root id="archive" name="ShiftSprint.jar">
+      <element id="module-output" name="ShiftSprint" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/mcmod.info" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
