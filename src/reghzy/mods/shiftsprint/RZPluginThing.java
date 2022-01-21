@@ -26,5 +26,6 @@ public class RZPluginThing implements IFMLLoadingPlugin {
     }
 
     public void injectData(Map<String, Object> data) {
+
     }
 }

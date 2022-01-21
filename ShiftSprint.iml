@@ -17,8 +17,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/reghzy/render" />
-      <excludeFolder url="file://$MODULE_DIR$/src/reghzy/mods/shiftsprint/network" />
       <excludeFolder url="file://$MODULE_DIR$/src/reghzy/transformer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/reghzy/mods/shiftsprint/network" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
