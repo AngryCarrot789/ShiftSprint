@@ -7,4 +7,6 @@ actually i do but it didnt work even after manually editing the python script an
 
 its a bodge :)
 
-sourceforge link: https://www.curseforge.com/minecraft/mc-mods/shiftsprinter
+sourceforge link: https://www.curseforge.com/minecraft/mc-mods/shiftsprinting
+
+(old version, which i somehow lost access to: https://www.curseforge.com/minecraft/mc-mods/shiftsprinter)
